@@ -1,0 +1,23 @@
+# Data & large binaries
+aldiseasedet/data/
+aldiseasedet/models/dl/
+aldiseasedet/results/
+*.png
+*.npz
+*.csv
+*.json
+
+# Python caches
+__pycache__/
+*.pyc
+env/
+venv/
+.venv/
+
+# Jupyter notebooks checkpoints
+.ipynb_checkpoints/
+
+# Antigravity / agent artefacts (runtime only)
+.gemini/
+brain/
+agents/
